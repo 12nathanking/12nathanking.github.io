@@ -19,11 +19,10 @@
 
 ### Other Projects
 
-- [Virtual Machines in Education Study](http://example.com/)
+- [Study on Cloud Computing in Education](MTH3035_Group_9_Final_Report.pdf)
+Description:
 - [Client Project for Final Assessment](/pdf/ComputerScienceNEA.pdf)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Description:
 
 ---
 
