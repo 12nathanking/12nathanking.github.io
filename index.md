@@ -2,7 +2,7 @@
 
 ---
 
-### Coding Projecs 
+### Coding Projects 
 
 [Python](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,10 +17,10 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Virtual Machines in Education Study](http://example.com/)
+- [Client Project for Final Assessment](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
