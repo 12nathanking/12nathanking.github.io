@@ -20,7 +20,7 @@
 ### Other Projects
 
 - [Virtual Machines in Education Study](http://example.com/)
-- [Client Project for Final Assessment](http://example.com/)
+- [Client Project for Final Assessment](/pdf/ComputerScienceNEA.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
