@@ -28,7 +28,7 @@
 As part of my final year university assessment I was involved in a group study to investigate the potential impacts of cloud computing implementation within our eduction. Our study involved researching the different methods available and reviewing services provided by the University. My role was to conduct a focus group who would take part in a demo of Azure Lab Services and then create a follow up interview on Virtual Machines and the viewpoints of the people who attended the demo. In addition I coordinated a trial of Microsoft Teams with my group and reviewed the system.
 - [Client Project for Final Assessment](/pdf/ComputerScienceNEA.pdf)
 
-Description:
+As part of my final year A-Level assessment I was tasked with communicating with a client to create a system that would improve on the current computer room booking system.
 
 ---
 
