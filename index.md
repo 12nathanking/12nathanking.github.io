@@ -24,8 +24,10 @@
 ### Other Projects
 
 - [Study on Cloud Computing in Education](/pdf/MTH3035_Group_9_Final_Report.pdf)
+
 Description:
 - [Client Project for Final Assessment](/pdf/ComputerScienceNEA.pdf)
+
 Description:
 
 ---
