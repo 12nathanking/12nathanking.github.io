@@ -17,7 +17,7 @@
 
 ---
 [C++ Basic Space Invaders Game](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SpaceInvadersGIMP.png?raw=true"/>
 
 ---
 
