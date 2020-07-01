@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Html/Css](/pdf/sample_presentation.pdf)
+[Html/Css](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
