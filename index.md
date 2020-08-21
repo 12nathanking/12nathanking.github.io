@@ -9,7 +9,7 @@
 <img src="images/exeter_logo2.svg?raw=true" width="480" height="320"/>
 
 ---
-[C++ Basic Space Invaders Game](http://example.com/)
+[C++ Basic Space Invaders Game](/sample_page)
 <img src="images/SpaceInvadersGIMP.png?raw=true"/>
 
 ---
