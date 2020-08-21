@@ -5,7 +5,7 @@
 ### Coding Projects 
 
 ---
-[Html/Css/Javascript](http://12nathanking.github.io/mystudies)
+[Html/Css/Javascript](http://12nathanking.github.io/mystudies| width=480)
 <img src="images/exeter_logo2.svg?raw=true"/>
 
 ---
