@@ -6,7 +6,7 @@
 
 ---
 [Html/Css/Javascript](http://12nathanking.github.io/mystudies)
-<img src="images/exeter_logo.png?raw=true"/>
+<img src="images/exeter_logo2.svg?raw=true"/>
 
 ---
 [C++ Basic Space Invaders Game](http://example.com/)
