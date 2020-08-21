@@ -5,8 +5,8 @@
 ### Coding Projects 
 
 ---
-[Html/Css](http://12nathanking.github.io/mystudies)
-<img src="images/exter_logo.png?raw=true"/>
+[Html/Css/Javascript](http://12nathanking.github.io/mystudies)
+<img src="images/exeter_logo.png?raw=true"/>
 
 ---
 [C++ Basic Space Invaders Game](http://example.com/)
