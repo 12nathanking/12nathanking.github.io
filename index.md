@@ -5,8 +5,8 @@
 ### Coding Projects 
 
 ---
-[Html/Css/Javascript](http://12nathanking.github.io/mystudies| width=480)
-<img src="images/exeter_logo2.svg?raw=true"/>
+[Html/Css/Javascript](http://12nathanking.github.io/mystudies)
+<img src="images/exeter_logo2.svg?raw=true" width="480" height="320"/>
 
 ---
 [C++ Basic Space Invaders Game](http://example.com/)
