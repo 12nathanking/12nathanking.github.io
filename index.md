@@ -4,20 +4,21 @@
 
 ### Coding Projects 
 
-[Python](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Html/Css](http://12nathanking.github.io/mystudies)
+<img src="images/exter_logo.png?raw=true"/>
 
 ---
-[Html/Css](/sample_page)
+[C++ Basic Space Invaders Game](http://example.com/)
+<img src="images/SpaceInvadersGIMP.png?raw=true"/>
+
+---
+[Python](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [C++](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[C++ Basic Space Invaders Game](http://example.com/)
-<img src="images/SpaceInvadersGIMP.png?raw=true"/>
 
 ---
 
