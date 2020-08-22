@@ -9,11 +9,11 @@
 <img src="images/exeter_logo2.svg?raw=true" width="480" height="320"/>
 
 ---
-[C++ Basic Space Invaders Game](/sample_page)
+[C++ Basic Space Invaders Game](http://example.com/)
 <img src="images/SpaceInvadersGIMP.png?raw=true"/>
 
 ---
-[Python](/sample_page)
+[Python](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
