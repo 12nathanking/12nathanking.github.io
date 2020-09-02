@@ -10,11 +10,11 @@
 
 ---
 [Client Project](/sample_page.md)
-<img src="images/Client.svg?raw=true" width="480" height="320"/>
+<img src="images/Client.png?raw=true" width="480" height="320"/>
 
 ---
 [Study on Cloud Computing](/samplepage2.md)
-<img src="images/CloudComputing.svg?raw=true" width="480" height="320"/>
+<img src="images/CloudComputing.png?raw=true" width="480" height="320"/>
 
 ---
 
