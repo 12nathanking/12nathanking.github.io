@@ -10,7 +10,7 @@
 
 ---
 [Client Project](/sample_page.md)
-<img src="images/Client.svg.jpg?raw=true" width="480" height="320"/>
+<img src="images/Client.svg?raw=true" width="480" height="320"/>
 
 ---
 [Study on Cloud Computing](/samplepage2.md)
