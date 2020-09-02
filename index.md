@@ -1,24 +1,20 @@
 ## Portfolio
 
 ---
-
-### Coding Projects 
-
----
-[Html/Css/Javascript](http://12nathanking.github.io/mystudies)
+[Learning Html/Css/Javascript](http://12nathanking.github.io/mystudies)
 <img src="images/exeter_logo2.svg?raw=true" width="480" height="320"/>
 
 ---
-[C++ Basic Space Invaders Game](http://example.com/)
-<img src="images/SpaceInvadersGIMP.png?raw=true"/>
+[Learning C++](/sample_page.md)
+<img src="images/Battleship.svg?raw=true" width="480" height="320"/>
 
 ---
-[Python](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Client Project](/sample_page.md)
+<img src="images/Client.svg.jpg?raw=true" width="480" height="320"/>
 
 ---
-[C++](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Study on Cloud Computing](/samplepage2.md)
+<img src="images/CloudComputing.svg?raw=true" width="480" height="320"/>
 
 ---
 
