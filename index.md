@@ -6,7 +6,7 @@
 
 ---
 [Learning C++](/sample_page.md)
-<img src="images/Battleship.svg?raw=true" width="480" height="320"/>
+<img src="images/Battleship.png?raw=true" width="480" height="320"/>
 
 ---
 [Client Project](/sample_page.md)
