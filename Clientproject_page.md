@@ -4,7 +4,7 @@
 
 ---
 
-**Project description:** 
+### Project description:
 
 As part of my final year A-Level computer science assessment I was given the opportunity to develop my practical skills in the context of solving a realistic problem or carrying out and investigation. Working independently, I was able to extend my programming skills and deepen my understanding of computer science.
 
