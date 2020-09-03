@@ -2,7 +2,7 @@
 
 ---
 [Learning Html/Css/Javascript](http://12nathanking.github.io/mystudies)
-<img src="images/exeter_logo2.svg?raw=true" width="480" height="320"/>
+<img src="images/Exeter.png?raw=true" width="480" height="320"/>
 
 ---
 [Learning C++](/sample_page.md)
