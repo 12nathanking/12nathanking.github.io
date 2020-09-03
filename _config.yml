@@ -1,19 +1,15 @@
 title: Nathan King
 logo: "/images/profile2.jpg?raw=true" 
 description: > 
-  About me: 
   A proficient mathematician and programmer, enthusiastic about the changing world driven
   by how we use technology to solve current problems. Already well-versed in numerous 
   programming languages but eager to learn new methods and techniques as well as new languages.
-  <br><br>
   With a degree in mathematics from the University of Exeter I aim to carry over my experiences and developed skills to the workplace.
   <br><br>
   This page aims to present some of my projects as I transition through the early stages of my career. 
   This includes demonstrating my coding ability as well as my analytical and evaluative skills developed from approaching each project.
   <br><br>
   Email: 12nathanking@gmail.com
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
