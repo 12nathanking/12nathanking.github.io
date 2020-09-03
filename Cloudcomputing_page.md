@@ -4,7 +4,7 @@
 
 ---
 
-**Project description:** 
+### Project description:
 
 As part of my final year university assessment I was involved in a group study to investigate the potential impacts of cloud computing implementation within our education. We were tasked with conducting research to produce a document with our findings and a recommendation for the University. We were able to work as part of a team under the tutorage of an expert in our chosen field in preparation for future employability.
 <br><br>
