@@ -32,4 +32,3 @@ Testing helped demonstrate if I have achieved the objectives identified in the a
 ### 4. Evaluation
 Evaluation allowed me to reflect on the success of the project in meeting the objectives identified in the analysis. I was also able to reflect on feedback from the client and discuss potential improvements and extensions to the solution. For each objective I explained how I could implement the possible improvements and gave an overview of the effectiveness of it within my solution.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
