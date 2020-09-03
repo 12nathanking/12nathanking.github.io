@@ -2,18 +2,23 @@
 
 [Find the project here.](/pdf/ComputerScienceNEA.pdf)
 
+---
+
 **Project description:** 
 
 As part of my final year A-Level computer science assessment I was given the opportunity to develop my practical skills in the context of solving a realistic problem or carrying out and investigation. Working independently, I was able to extend my programming skills and deepen my understanding of computer science.
 
 In the non-examination assessment (NEA) I could choose between:
+<br>
 • Finding a solution to a problem.
+<br>
 This meant selecting a problem and developing a system to solve it. Typically, the solution
 would be developed for a third party with an end user. 
+<br>
 • An investigation.
+<br>
 This meant selecting an area of the subject that they are interested in and conducting an
 investigation of this area, with the focus being on programming.
-
 
 I selected a problem-based project as I was inexperienced at working with a third party and wanted to develop my communcation, inference and independent programming skills.
 The task I chose was creating a new system for a client (the IT manager at my college) that would improve on the current computer room booking system. I also used this opportunity to work with a database in a realistic setting.
