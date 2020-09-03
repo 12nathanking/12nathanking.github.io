@@ -5,7 +5,7 @@
 <img src="images/Exeter.png?raw=true" width="480" height="320"/>
 
 ---
-[Learning C++](/sample_page.md)
+[Learning C++](/Battleship_page.md)
 <img src="images/Battleship.png?raw=true" width="480" height="320"/>
 
 ---
