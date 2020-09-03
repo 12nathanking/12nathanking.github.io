@@ -7,9 +7,9 @@
 **Project description:** 
 
 As part of my final year university assessment I was involved in a group study to investigate the potential impacts of cloud computing implementation within our education. We were tasked with conducting research to produce a document with our findings and a recommendation for the University. We were able to work as part of a team under the tutorage of an expert in our chosen field in preparation for future employability.
-<br>
+<br><br>
 Our study involved researching the different methods available and reviewing services provided by the University. Whilst collaborating with other students we had to opportunity to present our findings to a group of clients, lecturers and students. Throughout the investigation we ran surveys with both CEMPS students and staff members to understand the University’s needs. We also looked into and trialled cloud services, including Microsoft Teams, GitLab and Azure Lab Services. In order to give a well rounded recommendation we also researched the costs of these services and compared this to the University’s present outlays.
-<br>
+<br><br>
 The project gave me an opportunity to understand how to approach a large-scale investigation, as I was required to perform an extensive analysis to ensure a successful report. This included creating a critical path and methodology to meet frequent deadlines and expectations of my team.
 
 ### My Responsibilites
