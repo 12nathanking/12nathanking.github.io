@@ -1,6 +1,12 @@
 ## Learning C++
 
-**Description:** To devlop my coding skills in c++ I began work on a small-scale project that would use previous coding knowledge but also integrate new concepts. I chose to develop my own Battleship game by breaking down its key functions and eventually code them in myself to have a fully operational system.
+Find the project here.
+
+---
+
+### Project description:
+
+To devlop my coding skills in c++ I began work on a small-scale project that would use previous coding knowledge but also integrate new concepts. I chose to develop my own Battleship game by breaking down its key functions and eventually code them in myself to have a fully operational system.
 
 When selecting a project it had to meet particular requirements:
 
@@ -12,14 +18,13 @@ This means that I wanted a project that would let me 'step back' and design a so
 
 Previously I had only used enumerations and structures on several occasions, but I believed I could improve my understanding and ability to implement them into my work. Battleship is a particularly good project for this as both the ships and players will have multiple layers of data, including names, ship sizes, positions and player boards.
 
-For example
+Example in practice:
 ```c++
 struct Ship
   ShipType Type
   int Shipsize
   ShipPosition Position
   ShipOrientation Orientation
-}
 ```
 Where ShipPostion, ShipType and ShipOrientation are declared enums.
 
@@ -34,8 +39,6 @@ string* fruitptr = &fruit
 ```
 The * indicates that we are creating a pointer, using the memory address retrieved by using &.
 
-### 4. Is fun to develop.
+### 4. Is challenging and engaging to develop.
 
-A project that was fun to develop and had multiple layers of complexity would help me focus and increase my motivation to learn.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Having a project that was fun to develop and had multiple layers of complexity would help me increase my motivation to learn.
