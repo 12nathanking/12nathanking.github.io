@@ -1,6 +1,6 @@
 ## Learning C++
 
-Find the project here.
+[Find the project here.](/pdf/Battleship.pdf)
 
 ---
 
