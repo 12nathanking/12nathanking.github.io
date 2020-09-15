@@ -1,6 +1,6 @@
 ## Client Project
 
-[Find the project here.](/pdf/ComputerScienceNEA.pdf)
+[Find the project here.](/pdf/Computer_Room_System.pdf)
 
 ---
 
