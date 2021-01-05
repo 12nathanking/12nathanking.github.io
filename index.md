@@ -9,6 +9,10 @@
 <img src="images/Battleship.png?raw=true" width="480" height="320"/>
 
 ---
+### [Learning C (WIP)](/Battleship_page.md)
+<img src="images/Battleship.png?raw=true" width="480" height="320"/>
+
+---
 ### [Client Project](/Clientproject_page.md)
 <img src="images/Client.png?raw=true" width="480" height="320"/>
 
